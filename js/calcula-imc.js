@@ -1,6 +1,3 @@
-let titulo = document.querySelector('.titulo')
-titulo.textContent = 'Aparecida Nutricionista'
-
 // selecionando todas as classe que tem o nome .pacientes/retonar uma lista de arrays
 let pacientes = document.querySelectorAll('.paciente')
 
